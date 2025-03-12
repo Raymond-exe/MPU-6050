@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+### Espresso ###
+*.esproj
+
+### PlatformIO ###
+.pioenvs
+.piolibdeps
+.clang_complete
+.gcc-flags.json
+.pio
+
+.vscode
