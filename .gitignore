@@ -42,3 +42,5 @@
 .pio
 
 .vscode
+
+sdkconfig.*
